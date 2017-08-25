@@ -8,6 +8,7 @@ public class Animal
 	{
 		i=12;
 		System.out.println("Animal constructor.");
+		System.out.println("updated ");
 	}
 	
 	{
